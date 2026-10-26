@@ -1,0 +1,37 @@
+[
+    {
+        "Model": "Random Forest",
+        "MAE": 3.224,
+        "MSE": 16.4219,
+        "RMSE": 4.0524,
+        "R2 Score": 0.8127
+    },
+    {
+        "Model": "Decision Tree",
+        "MAE": 3.3351,
+        "MSE": 17.9552,
+        "RMSE": 4.2374,
+        "R2 Score": 0.7952
+    },
+    {
+        "Model": "Linear Regression",
+        "MAE": 4.7511,
+        "MSE": 35.8277,
+        "RMSE": 5.9856,
+        "R2 Score": 0.5914
+    },
+    {
+        "Model": "Ridge Regression",
+        "MAE": 4.7511,
+        "MSE": 35.828,
+        "RMSE": 5.9856,
+        "R2 Score": 0.5914
+    },
+    {
+        "Model": "Lasso Regression",
+        "MAE": 4.7559,
+        "MSE": 35.9044,
+        "RMSE": 5.992,
+        "R2 Score": 0.5905
+    }
+]
